@@ -73,3 +73,4 @@ if __name__ == "__main__":
     print("Endpoint GraphQL: http://127.0.0.1:5000/graphql")
     print("==================================================")
     app.run(port=5000, debug=True)
+# Actualización de pruebas GraphQL
